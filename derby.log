@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Oct 23 22:42:01 CEST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016d-fa5a-db35-000007262000 
+on database directory /home/vesprada/Desktop/db-derby-10.14.2.0-bin/bin/dbalumnos with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1affbebc 
+Loaded from file:/home/vesprada/Desktop/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.4+11-post-Ubuntu-1ubuntu218.04.3
+user.dir=/home/vesprada/eclipse-workspace/ConectarSqlite
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-66-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
