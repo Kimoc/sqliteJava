@@ -14,7 +14,7 @@ public class Sqlite {
 	public static void conSQLite() throws SQLException {
 		//Conectar con el driver
 		//Class.forName("org.sqlite.JDBC");
-		String urlConection="jdbc:sqlite:/home/vesprada/Desktop/Sqlite/sqlite-tools-linux-x86-3300100/base.db";
+		String urlConection="jdbc:sqlite:/home/vesprada/Desktop/Sqlite/sqlite-tools-linux-x86-3300100/empresas.db";
 		Connection c=DriverManager.getConnection(urlConection);
 		if (c !=null)
 			System.out.println("OK-SQLITE");
